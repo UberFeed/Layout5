@@ -1,0 +1,15 @@
+html {
+  font-size: 14px;
+  font-family: "Roboto";
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+body {
+  max-width: 1920px;
+  margin: 0 auto;
+  width: 100%;
+}
